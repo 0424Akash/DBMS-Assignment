@@ -11,5 +11,5 @@ assignment-3 : Hospital Database
 1. DMBS_ASSIGNMENT_3.pdf
 
 assignment-4 
-1. Assignment4.pdf
-2. assignment 4.sql
+1. Assignment 4.pdf
+2. assignment_4.sql
