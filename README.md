@@ -19,7 +19,7 @@ assignment-5
 2. assignment-5.sql
 
 
-Group Project Topc:- DB_design_for_a_Car_insurance_company (Team-8)
+Group Project Team-8 (Topic:- DB_design_for_a_Car_insurance_company)
 1. Car_insurance_results.sql
 2. Car_insurance_views.sql
 3. DBMS report.pdf
